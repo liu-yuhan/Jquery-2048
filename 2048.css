@@ -1,0 +1,21 @@
+*{
+  margin:0px;
+  padding: 0px;
+}
+#playBoard{
+  background-color: #008B8B;
+  border: 10px solid #FFA07A;
+  font-size: 50px;
+  font-family: 'Dokdo', cursive;
+}
+
+tr{
+  height: 100px;
+}
+
+
+td{
+  height: 100px;
+  width:150px;
+  border: 10px solid #FFA07A;
+}
